@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://meredithyan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://meredithyan.github.io/"/>
+  <updated>2022-08-30T03:02:56.001Z</updated>
+  <id>https://meredithyan.github.io/</id>
+  
+  <author>
+    <name>Paris Snow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://meredithyan.github.io/2022/08/30/post3/"/>
+    <id>https://meredithyan.github.io/2022/08/30/post3/</id>
+    <published>2022-08-30T14:51:00.000Z</published>
+    <updated>2022-08-30T03:02:56.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/categories/chat/"/>
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/tags/chat/"/>
+    
+    <category term="糊作非为" scheme="https://meredithyan.github.io/tags/%E7%B3%8A%E4%BD%9C%E9%9D%9E%E4%B8%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>去追风吧</title>
+    <link href="https://meredithyan.github.io/2022/08/29/post2/"/>
+    <id>https://meredithyan.github.io/2022/08/29/post2/</id>
+    <published>2022-08-29T14:51:00.000Z</published>
+    <updated>2022-08-29T14:57:10.129Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一直想骑着摩托车到处兜风，虽然我现在连基本的汽车驾照也没有&lt;/p&gt;
+&lt;p&gt;我想要的摩托车是《美国队长 2》里面的美队座驾&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/categories/chat/"/>
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/tags/chat/"/>
+    
+    <category term="糊作非为" scheme="https://meredithyan.github.io/tags/%E7%B3%8A%E4%BD%9C%E9%9D%9E%E4%B8%BA/"/>
+    
+    <category term="愿望清单" scheme="https://meredithyan.github.io/tags/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://meredithyan.github.io/2022/08/27/hello-world/"/>
+    <id>https://meredithyan.github.io/2022/08/27/hello-world/</id>
+    <published>2022-08-27T14:51:00.000Z</published>
+    <updated>2022-08-28T15:12:06.660Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Hello World&lt;br&gt;这是我的第一篇博文&lt;br&gt;我想分享我自己特别喜欢的一句话&lt;br&gt;everyone fails at who they are supposed to be.&lt;br&gt;The measure of a person of a hero, is</summary>
+        
+      
+    
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/categories/chat/"/>
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/tags/chat/"/>
+    
+    <category term="糊作非为" scheme="https://meredithyan.github.io/tags/%E7%B3%8A%E4%BD%9C%E9%9D%9E%E4%B8%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大明王朝1566 读书笔记</title>
+    <link href="https://meredithyan.github.io/2022/08/27/post1/"/>
+    <id>https://meredithyan.github.io/2022/08/27/post1/</id>
+    <published>2022-08-27T14:51:00.000Z</published>
+    <updated>2022-08-29T13:51:33.008Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;《大明王朝 1566》是一部质量很高的古装剧，编剧刘和平文史功底深厚，在剧本中引经据典。这篇博文精选了我在微信读书上所做的笔记。Just enjoy reading~&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="reading" scheme="https://meredithyan.github.io/categories/reading/"/>
+    
+    
+    <category term="chat" scheme="https://meredithyan.github.io/tags/chat/"/>
+    
+    <category term="读书笔记" scheme="https://meredithyan.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="历史" scheme="https://meredithyan.github.io/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+</feed>
